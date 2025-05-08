@@ -17,4 +17,4 @@ def resize_to_target(input_path, output_path, target_kb):
             break
 
 if __name__ == '__main__':
-    resize_to_target("src_path/my_pic.jpg", "output_path/resized.jpg", 240)  # 目标：240KB
+    resize_to_target("src_path/my_pic.jpg", "output_path/resized.jpg", 240)  # target：240KB
